@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/LoginPage",
+    "pages/HomePage",
+    "pages/ProfilePage",
+    "pages/DevicePage",
+    "pages/FamilyPage",
+    "pages/MessagePage",
+    "pages/AiPage"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "鸿居智联车载端"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "鸿居智联智能家居应用"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "鸿居智联"
+    },
+    {
+      "name": "internet_reason",
+      "value": "用于与服务器通信，获取设备状态和发送控制指令"
+    },
+    {
+      "name": "distributed_reason",
+      "value": "分布式权限"
+    },
+    {
+      "name": "microphone_reason",
+      "value": "用于语音助手录音识别您的语音指令"
+    },
+    {
+      "name": "location_reason",
+      "value": "用于获取车辆位置，提供路况和周边出行服务"
+    }
+  ]
+}
