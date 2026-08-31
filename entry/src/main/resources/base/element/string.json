@@ -2,15 +2,15 @@
   "string": [
     {
       "name": "module_desc",
-      "value": "鸿居智联车载端"
+      "value": "智能家居车载端"
     },
     {
       "name": "EntryAbility_desc",
-      "value": "鸿居智联智能家居应用"
+      "value": "智能家居应用"
     },
     {
       "name": "EntryAbility_label",
-      "value": "鸿居智联"
+      "value": "智能家居"
     },
     {
       "name": "internet_reason",
