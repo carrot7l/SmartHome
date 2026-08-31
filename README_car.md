@@ -528,7 +528,7 @@ const headers: Record<string, string> = RequestSecurityUtil.buildHeaders(
 
 ### 基础信息
 
-**后端 API**：`http://192.168.43.237:5001/api`  
+**后端 API**：`http://YOUR_BACKEND_HOST:5001/api`（请替换为你的后端地址）
 **认证方式**：Bearer Token（JWT）  
 **安全头**：所有请求自动携带防重放安全头  
 **CA 证书**：`rawfile/rootCA.crt`（HTTPS 请求验证服务器证书）

@@ -5,8 +5,8 @@ import fs from '@ohos.file.fs';
 import { RequestSecurityUtil } from './RequestSecurityUtil';
 
 // ==================== 基础配置 ====================
-/** 后端服务器基础地址 */
-export const BASE_URL: string = 'http://192.168.43.237:5001/api';
+/** 后端服务器基础地址（请替换为你的后端地址） */
+export const BASE_URL: string = 'http://YOUR_BACKEND_HOST:5001/api';
 
 /** 自签名CA证书在沙箱中的路径（应用启动时从rawfile复制） */
 let caCertPath: string = '';
